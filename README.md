@@ -1,6 +1,6 @@
 # arduinounorev3blankshield
 
-Arduino Uno Rev 3 Blank shield template with pin headers and mounting holes.
+KiCAD Arduino Uno Rev 3 Blank shield template with pin headers and mounting holes and net connections.
 
 Pin header connections are labeled as nets connected to their corresponding Arduino pins.
 
